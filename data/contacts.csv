@@ -1,0 +1,9 @@
+contact_id,name,email,department,company,status,email_opt_in
+C001,Aarav Shah,aarav@example.com,HR,TechNova Solutions,Active,Yes
+C002,Mira Patel,mira@example.com,Sales,TechNova Solutions,Active,Yes
+C003,Rohan Mehta,rohan@example.com,Operations,TechNova Solutions,Active,Yes
+C004,Priya Desai,priya@example.com,Finance,TechNova Solutions,Active,Yes
+C005,Karan Joshi,karan@example.com,HR,TechNova Solutions,Active,Yes
+C006,Ananya Shah,ananya@example.com,Marketing,TechNova Solutions,Inactive,No
+C007,Dev Patel,dev@example.com,IT,TechNova Solutions,Active,Yes
+C008,Neha Mehta,neha@example.com,Training,TechNova Solutions,Active,Yes

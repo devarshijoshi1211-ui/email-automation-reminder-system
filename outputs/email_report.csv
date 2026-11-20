@@ -1,0 +1,8 @@
+reminder_id,contact_id,recipient,subject,status,execution_time,message
+R001,C001,aarav@example.com,Interview Schedule Reminder,Simulated,2026-11-20T12:01:31,Dry-run successful. No email was sent.
+R002,C002,mira@example.com,Customer Follow-up Reminder,Simulated,2026-11-20T12:01:31,Dry-run successful. No email was sent.
+R003,C003,rohan@example.com,Operations Meeting Reminder,Simulated,2026-11-20T12:01:31,Dry-run successful. No email was sent.
+R004,C004,priya@example.com,Payment Deadline Reminder,Simulated,2026-11-20T12:01:31,Dry-run successful. No email was sent.
+R005,C005,karan@example.com,Document Submission Reminder,Simulated,2026-11-20T12:01:31,Dry-run successful. No email was sent.
+R006,C007,dev@example.com,Pending IT Task Notification,Simulated,2026-11-20T12:01:31,Dry-run successful. No email was sent.
+R007,C008,neha@example.com,Upcoming Training Session,Simulated,2026-11-20T12:01:31,Dry-run successful. No email was sent.

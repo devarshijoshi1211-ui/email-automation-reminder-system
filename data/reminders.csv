@@ -1,0 +1,8 @@
+reminder_id,contact_id,reminder_type,subject,scheduled_date,scheduled_time,status,template_name
+R001,C001,Interview,Interview Schedule Reminder,2026-11-20,09:59,Simulated,email_template.txt
+R002,C002,Sales Follow-up,Customer Follow-up Reminder,2026-11-20,10:01,Simulated,email_template.txt
+R003,C003,Operations Meeting,Operations Meeting Reminder,2026-11-20,10:03,Simulated,email_template.txt
+R004,C004,Payment,Payment Deadline Reminder,2026-11-20,10:34,Simulated,email_template.txt
+R005,C005,Document Submission,Document Submission Reminder,2026-11-20,10:49,Simulated,email_template.txt
+R006,C007,IT Task,Pending IT Task Notification,2026-11-20,10:59,Simulated,email_template.txt
+R007,C008,Training,Upcoming Training Session,2026-11-20,10:59,Simulated,email_template.txt

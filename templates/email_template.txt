@@ -1,0 +1,16 @@
+Hello {name},
+
+This is an automated reminder from {company}.
+
+Reminder Type: {reminder_type}
+Subject: {subject}
+Scheduled Date: {scheduled_date}
+Scheduled Time: {scheduled_time}
+
+Please take the necessary action.
+
+Thank you,
+{company} Automation Team
+
+---
+This is an automated notification. Please do not reply to this email.
